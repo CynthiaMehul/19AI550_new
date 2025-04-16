@@ -53,13 +53,9 @@ public class Script : MonoBehaviour
 ```
 ### Output:
 
+![image](https://github.com/user-attachments/assets/d7b0fb73-b9a6-4c95-9556-1782c5cfd30e)
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/a14efef0-be19-4e20-9be0-9a5f3e67f1a6)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
